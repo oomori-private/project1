@@ -1,2 +1,3 @@
 branch1で作成した新規ファイル
 buranch1で最初の更新
+buranch2で最初の更新
